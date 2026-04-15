@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Dark Deep Demo/game lite/MainMenu LITE.unity
+    guid: 5b67bf1407ce7ac448666129346f284c
+  - enabled: 1
+    path: Assets/Dark Deep Demo/game lite/LevelSelec LITE.unity
+    guid: 68f358bbc35ae39448d9a3a8ef3c029f
+  - enabled: 1
+    path: Assets/Dark Deep Demo/game lite/Level01 liet.unity
+    guid: 5f1f9974487a7464bbb6b023c7f46415
+  - enabled: 1
+    path: Assets/Dark Deep Demo/game lite/Level02 lite.unity
+    guid: e9b7ec0032554884999a3c7a194b41d6
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
